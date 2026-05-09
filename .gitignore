@@ -1,0 +1,19 @@
+# Frontend
+frontend/node_modules/
+
+# Backend
+backend/target/
+backend/.mvn/
+backend/.DS_Store
+
+# Environment Variables
+.env
+.env.*
+*.env
+
+# IDE and Editor Folders
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
