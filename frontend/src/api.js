@@ -7,7 +7,7 @@ export const TOKEN_KEY = 'token'
 export const ROLE_KEY = 'role'
 
 export const api = axios.create({
-  baseURL: 'https://team-task-manager-production-0fef.up.railway.app/api',
+  baseURL: 'https://team-task-manager-production-edf4.up.railway.app/api',
 })
 
 api.interceptors.request.use((config) => {
